@@ -1,4 +1,7 @@
 HELP.md
+.DS_Store
+*.log
+*.class
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -35,8 +38,3 @@ out/
 
 ### VS Code ###
 .vscode/
-
-### Other ###
-.DS_Store
-*.log
-*.class
